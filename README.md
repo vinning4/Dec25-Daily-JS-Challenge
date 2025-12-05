@@ -1,6 +1,6 @@
 # 26 Days of JavaScript Challenge
 
-Daily JavaScript practice from Dec 5 - Dec 31, 2024
+Daily JavaScript practice from Dec 5 - Dec 31, 2025
 
 ## Progress
 - [x] Day 1: Reverse a String
