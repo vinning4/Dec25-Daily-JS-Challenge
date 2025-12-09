@@ -15,8 +15,8 @@ function countVowels(str) {
 console.log(countVowels('Hello world!')); // output: 3
 console.log(countVowels("AEIOU")); //output: 5
 
-// Soln 2 using Set and .has()
 
+// Soln 2 using Set and .has()
 function vowelCounter(str) {
   const vowelSet = new Set(['a', 'e', 'i', 'o', 'u']);
   let counter = 0;

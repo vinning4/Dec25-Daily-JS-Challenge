@@ -1,4 +1,3 @@
-/*
 // Soln 1 using Set
 const arr = [1, 2, 2, 3, 3, 3, 4];
 let uniqueArr = [...new Set(arr)]; // ie uniqueArr = new Set(arr); then convert obj back to arr -> const newVar = [...uniqueArr] -> log newVar.
@@ -13,7 +12,7 @@ function removeDuplicates(arr) {
 }
 
 console.log(removeDuplicates(letters));
-*/
+
 
 // Soln 3 using loop without filter
 const numbers = [1, 1, 2, 2, 3, 3];
