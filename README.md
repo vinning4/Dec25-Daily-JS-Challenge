@@ -10,7 +10,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 5: Check if Palindrome
 - [x] Day 6: Find Max Number in Array
 - [x] Day 7: Capitalize First Letter of Each Word
-- [ ] Day 8: Sum All Array Elements
+- [x] Day 8: Sum All Array Elements
 - [ ] Day 9: Filter Even Numbers
 - [ ] Day 10: Count Character Occurrences
 - [ ] Day 11: Merge Two Arrays
