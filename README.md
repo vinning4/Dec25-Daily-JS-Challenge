@@ -14,7 +14,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 9: Filter Even Numbers
 - [x] Day 10: Count Character Occurrences
 - [x] Day 11: Merge Two Arrays
-- [ ] Day 12: Find Missing Number
+- [x] Day 12: Find Missing Number
 - [ ] Day 13: Object Property Counter
 - [ ] Day 14: Flatten Nested Array
 - [ ] Day 15: FizzBuzz
