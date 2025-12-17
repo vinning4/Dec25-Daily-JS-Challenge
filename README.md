@@ -15,7 +15,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 10: Count Character Occurrences
 - [x] Day 11: Merge Two Arrays
 - [x] Day 12: Find Missing Number
-- [ ] Day 13: Object Property Counter
+- [x] Day 13: Object Property Counter
 - [ ] Day 14: Flatten Nested Array
 - [ ] Day 15: FizzBuzz
 - [ ] Day 16: Find Second Largest Number
