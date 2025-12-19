@@ -17,7 +17,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 12: Find Missing Number
 - [x] Day 13: Object Property Counter
 - [x] Day 14: Flatten Nested Array
-- [ ] Day 15: FizzBuzz
+- [x] Day 15: FizzBuzz
 - [ ] Day 16: Find Second Largest Number
 - [ ] Day 17: Check if Anagram
 - [ ] Day 18: Remove Specific Element
