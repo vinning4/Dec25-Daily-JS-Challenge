@@ -19,7 +19,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 14: Flatten Nested Array
 - [x] Day 15: FizzBuzz
 - [x] Day 16: Find Second Largest Number
-- [ ] Day 17: Check if Anagram
+- [x] Day 17: Check if Anagram
 - [ ] Day 18: Remove Specific Element
 - [ ] Day 19: Reverse Words in Sentence
 - [ ] Day 20: Find Common Elements
