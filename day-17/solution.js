@@ -26,3 +26,4 @@ function anagram(str1, str2) {
 }
 
 console.log(anagram('ab cd', 'd acb')); // returns true
+console.log(anagram('The eyes', 'They see'));
