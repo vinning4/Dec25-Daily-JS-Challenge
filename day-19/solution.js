@@ -1,4 +1,4 @@
-// Soln 1 using reverse
+// Soln 1 using arr.reverse()
 function reverse(str) {
   return str.trim().split(' ').reverse().join(' ');
 }
@@ -17,3 +17,15 @@ function rev(str) {
   return reversed;
 }
 console.log(rev('abc    >def'));
+
+// Soln 3 using arr.unshift(word)
+function rev2(str) {
+  let words = str.trim().split(' ').filter(word => word);
+  let reversed = [];
+  for (let word of words) {
+    reversed.unshift(word);
+  }
+  return reversed.join(' ');
+}
+
+console.log(rev2('used unshift'));
