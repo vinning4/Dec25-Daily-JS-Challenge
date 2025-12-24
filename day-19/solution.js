@@ -10,9 +10,9 @@ console.log(reverse('   hey star  '));
 function rev(str) {
   const words = str.trim().split(' ').filter(word => word);
   let reversed = '';
-  for (let i = words.length - 1; i >=0; i--) {
-    reversed += words[i];
-    if (i > 0) { reversed += ' ';} // adds space betw words until it reaches first word at i = 0.
+  for (let j = words.length - 1; j >=0; j--) {
+    reversed += words[j];
+    if (j > 0) { reversed += ' ';} // adds space betw words until it reaches first word at i = 0.
   }
   return reversed;
 }
@@ -23,7 +23,7 @@ function rev2(str) {
   let words = str.trim().split(' ').filter(word => word);
   let reversed = [];
   for (let word of words) {
-    reversed.unshift(word);
+    reversed.unshift(word); // adds to front of queue
   }
   return reversed.join(' ');
 }
