@@ -10,3 +10,14 @@ function factorial(num) {
 console.log(factorial(5));
 console.log(factorial(0));
 console.log(factorial(1));
+
+
+// Soln 2 using recursive
+function factorial2(num) {
+  if (num === 0 || num === 1) return 1;
+  return num * factorial2(num - 1);
+}
+
+console.log(factorial(4));
+console.log(factorial(0));
+console.log(factorial(1));
