@@ -22,8 +22,8 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 17: Check if Anagram
 - [x] Day 18: Remove Specific Element
 - [x] Day 19: Reverse Words in Sentence
-- [ ] Day 20: Find Common Elements
-- [ ] Day 21: Calculate Factorial
+- [x] Day 20: Find Common Elements
+- [x] Day 21: Calculate Factorial
 - [ ] Day 22: Group Array Elements
 - [ ] Day 23: Deep Clone Object
 - [ ] Day 24: Debounce Function
