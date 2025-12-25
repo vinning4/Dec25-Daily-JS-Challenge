@@ -21,3 +21,12 @@ function factorial2(num) {
 console.log(factorial(4));
 console.log(factorial(0));
 console.log(factorial(1));
+
+// Soln 3 recursive one liner
+function factorial3(num) {
+  return num === 0 || num === 1 ? 1 : num * factorial3(num - 1);
+}
+
+console.log(factorial(3));
+console.log(factorial(0));
+console.log(factorial(1));
