@@ -24,7 +24,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 19: Reverse Words in Sentence
 - [x] Day 20: Find Common Elements
 - [x] Day 21: Calculate Factorial
-- [ ] Day 22: Group Array Elements
+- [x] Day 22: Find pairs that sum up to target
 - [ ] Day 23: Deep Clone Object
 - [ ] Day 24: Debounce Function
 - [ ] Day 25: Format Phone Number
