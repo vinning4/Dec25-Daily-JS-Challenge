@@ -25,7 +25,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 20: Find Common Elements
 - [x] Day 21: Calculate Factorial
 - [x] Day 22: Find pairs that sum up to target
-- [ ] Day 23: Deep Clone Object
+- [x] Day 23: Deep Clone Object
 - [ ] Day 24: Debounce Function
 - [ ] Day 25: Format Phone Number
 - [ ] Day 26: Build a Simple Calculator
