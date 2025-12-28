@@ -26,9 +26,10 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 21: Calculate Factorial
 - [x] Day 22: Find pairs that sum up to target
 - [x] Day 23: Deep Clone Object
-- [ ] Day 24: Debounce Function
-- [ ] Day 25: Format Phone Number
-- [ ] Day 26: Build a Simple Calculator
+- [x] Day 24: Format Phone Number
+- [ ] Day 25: Build a Simple Calculator
+- [ ] Day 26: 
+- [ ] Day 27: 
 
 ## Goal
 Build consistent coding habits and strengthen JavaScript fundamentals for frontend development.
