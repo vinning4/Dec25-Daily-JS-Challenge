@@ -28,7 +28,7 @@ function createCalc() {
     subtract: (a,b) => a - b,
     multiply: (a,b) => a * b,
     divide: (a,b) => b == 0 ? "Divide by zero" : a/b
-  }
+  };
 }
 
 const result = new createCalc();
