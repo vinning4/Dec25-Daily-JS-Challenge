@@ -28,8 +28,8 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 23: Deep Clone Object
 - [x] Day 24: Format Phone Number
 - [x] Day 25: Build a Simple Calculator
-- [ ] Day 26: 
-- [ ] Day 27: 
+- [ ] Day 26: Chunk Array
+- [ ] Day 27: Title Case String
 
 ## Goal
 Build consistent coding habits and strengthen JavaScript fundamentals for frontend development.
