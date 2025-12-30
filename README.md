@@ -29,7 +29,7 @@ Daily JavaScript practice from Dec 5 - Dec 31, 2025
 - [x] Day 24: Format Phone Number
 - [x] Day 25: Build a Simple Calculator
 - [x] Day 26: Chunk Array
-- [ ] Day 27: Title Case String
+- [x] Day 27: Title Case String (completed daily challenge until 31 Dec 2025)
 
 ## Goal
 Build consistent coding habits and strengthen JavaScript fundamentals for frontend development.
